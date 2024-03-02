@@ -66,7 +66,7 @@ body{
 }
 
 .botao:hover{
-    background-color: var(--cor-secundaria);
+    background-color: #610500;
     color: var(--cor-branca)
 }
 
